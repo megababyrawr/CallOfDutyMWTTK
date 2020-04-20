@@ -1,0 +1,2 @@
+# CallOfDutyMWTTK
+Calculates weapon TTK
